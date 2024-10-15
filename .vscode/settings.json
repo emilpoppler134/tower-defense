@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "entity.h": "c",
+        "interval.h": "c",
+        "launcher.h": "c",
+        "level.h": "c",
+        "server.h": "c",
+        "inet.h": "c"
+    }
+}
